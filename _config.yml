@@ -1,0 +1,28 @@
+name: Provocateur
+favicon: null
+layout_spectrum: 0.9381619584746659
+typography_spectrum: 0.1316454012412578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6835616256576031
+  lightness: 0.4061801191419363
+  saturation: 0.4999715415760875
+  rhythmicContrast: 0.5615105698816478
+purpose: []
