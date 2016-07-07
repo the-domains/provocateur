@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Provocateur]]></title>
         <description><![CDATA[Provocateur]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/provocateur/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 02:31:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 03:20:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/provocateur/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>video goes here</p>]]></description>
-            <link>undefinedvideo-goes-here/index.html</link>
+            <title><![CDATA[Title goes here]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fcb88c4-5ff6-483c-afd8-364f93ecbd55.jpg">]]></description>
+            <link>https://thegrid.ai/provocateur/video-goes-here/index.html</link>
             <guid isPermaLink="false">a8e541ce-7b50-4306-8794-5cde2e597b3a</guid>
-            <pubDate>Thu, 07 Jul 2016 02:31:46 GMT</pubDate>
+            <pubDate>Thu, 07 Jul 2016 03:19:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
