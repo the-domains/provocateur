@@ -3,12 +3,12 @@ description: >-
   <iframe src="https://player.vimeo.com/video/141459297" width="500"
   height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen
   allowfullscreen></iframe>
-dateModified: '2016-07-08T20:08:53.294Z'
-datePublished: '2016-07-08T20:11:22.242Z'
+dateModified: '2016-07-08T21:48:06.000Z'
+datePublished: '2016-07-08T21:48:06.517Z'
 title: Art Institutes Playground
 author: []
 sourcePath: _posts/2016-07-08-lessiframe-srchttpsplayervimeocomvideo141459297-width.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
