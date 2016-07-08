@@ -4,17 +4,17 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: this is a test
-datePublished: '2016-07-07T15:27:05.016Z'
-dateModified: '2016-07-07T15:27:04.291Z'
+description: PNC Grow up Great
+datePublished: '2016-07-08T12:25:55.681Z'
+dateModified: '2016-07-08T12:23:02.358Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-07-this-is-a-test.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-07-07-this-is-a-test.md
+starred: true
 url: this-is-a-test/index.html
 _type: Article
 
 ---
-this is a test
+> PNC _Grow up Great_
