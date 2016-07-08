@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PROVOCATEUR]]></title>
         <description><![CDATA[PROVOCATEUR]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/provocateur/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 19:44:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 20:11:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/provocateur/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PNC Grow Up Great]]></title>
             <description><![CDATA[<article><h1>PNC Grow Up Great</h1><p><iframe src="https://player.vimeo.com/video/68631271" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p></article>]]></description>
-            <link>undefinedpnc-grow-up-great/index.html</link>
+            <link>https://thegrid.ai/provocateur/pnc-grow-up-great/index.html</link>
             <guid isPermaLink="false">68a49847-6547-437e-ae8a-1d8c7e19ca33</guid>
-            <pubDate>Fri, 08 Jul 2016 19:44:04 GMT</pubDate>
+            <pubDate>Fri, 08 Jul 2016 20:11:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
