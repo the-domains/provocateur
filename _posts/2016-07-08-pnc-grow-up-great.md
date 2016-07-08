@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-08T20:11:16.534Z'
+datePublished: '2016-07-08T21:48:10.706Z'
 sourcePath: _posts/2016-07-08-pnc-grow-up-great.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-08T19:55:58.268Z'
+dateModified: '2016-07-08T21:48:10.377Z'
 title: PNC Grow Up Great
 publisher: null
 description: >-
@@ -15,7 +15,7 @@ description: >-
   allowfullscreen></iframe>
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: pnc-grow-up-great/index.html
 _type: Article
 
